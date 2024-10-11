@@ -1,2 +1,0 @@
-# DwarFI
-DwarFI_CoinBot
